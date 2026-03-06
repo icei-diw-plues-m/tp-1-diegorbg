@@ -3,12 +3,15 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: 
-- Matricula:
+- Nome: Diego Ribeiro
+- Matricula: 1652031
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Inspeção do navegador](images/network.png)
+## Tela do index.html
+
+![Página Hello World](images/index.png)
 
 
 ## Orientações sobre Linguagem MarkDown
